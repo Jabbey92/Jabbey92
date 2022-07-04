@@ -2,21 +2,20 @@
 
 <span>
     <img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"></a>
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=Jabbey92&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-    <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=rafi0101&theme=radical" />
+    <img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jabbey92&theme=radical" />
 </span>
 
 I'm Justin Bacher, I'm currently serving in the US Navy, but in my spare time I work on passion projects, which you can see on here, I love answering questions on StackOverflow! It has helped me learn and grow as a developer.
 
 ## 💻Technologies & Tools
 <span>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jabbey92&hide=tex&langs_count=7&theme=radical" alt="Top Languages" />
-    <table align="center">
+    <img align="left" src="https://github-profile-trophy.vercel.app/?username=Jabbey92&theme=radical&column=2&row=3" />
+    <table>
         <tr>
-            <th>📝Languages</th>
-            <th>⚒️Tools</th>
-            <th>📖Learning</th>
-            <th>👀Interests</th>
+            <th align="center">📝Languages</th>
+            <th align="center">⚒️Tools</th>
+            <th align="center">📖Learning</th>
+            <th align="center">👀Interests</th>
         </tr>
         <tr>
             <td align="center"><a href="http://python.org/"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /></a></td>
