@@ -1,16 +1,15 @@
 <!--**Jabbey92/Jabbey92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-<span>
-    <img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"></a>
-    <img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jabbey92&theme=radical" />
-</span>
+<img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"></a>
+<img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jabbey92&theme=radical" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=Jabbey92&theme=radical&" />
 
 I'm Justin Bacher, I'm currently serving in the US Navy, but in my spare time I work on passion projects, which you can see on here, I love answering questions on StackOverflow! It has helped me learn and grow as a developer.
 
 ## 💻Technologies & Tools
 <span>
     <img align="left" src="https://github-profile-trophy.vercel.app/?username=Jabbey92&theme=radical&column=2&row=3" />
-    <table>
+    <table align="right">
         <tr>
             <th align="center">📝Languages</th>
             <th align="center">⚒️Tools</th>
@@ -67,6 +66,7 @@ I'm Justin Bacher, I'm currently serving in the US Navy, but in my spare time I 
 <a href="https://www.linkedin.com/in/justin-bacher-1392b519/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto: 92jbach@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="discordapp.com/users/243934463615041536"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=Jabbey92&style=for-the-badge&color=blueviolet" />
 
 <!--
 Here are some ideas to get you started:
