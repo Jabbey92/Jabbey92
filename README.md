@@ -1,15 +1,16 @@
 <!--**Jabbey92/Jabbey92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 <span>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"></a>
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=Jabbey92&show_icons=true&theme=radical&count_private=true" />
+    <img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"></a>
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=Jabbey92&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=rafi0101&theme=radical" />
 </span>
 
 I'm Justin Bacher, I'm currently serving in the US Navy, but in my spare time I work on passion projects, which you can see on here, I love answering questions on StackOverflow! It has helped me learn and grow as a developer.
 
 ## 💻Technologies & Tools
 <span>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jabbey92&hide=tex&theme=radical" alt="Top Languages" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jabbey92&hide=tex&langs_count=7&theme=radical" alt="Top Languages" />
     <table align="center">
         <tr>
             <th>📝Languages</th>
@@ -18,44 +19,44 @@ I'm Justin Bacher, I'm currently serving in the US Navy, but in my spare time I 
             <th>👀Interests</th>
         </tr>
         <tr>
-            <td><a href="http://python.org/"><img align="center" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /></a></td>
-            <td><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-            <td><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></td>
-            <td><img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324" /></td>
+            <td align="center"><a href="http://python.org/"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /></a></td>
+            <td align="center"><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+            <td align="center"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></td>
+            <td align="center"><img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324" /></td>
         </tr>
         <tr>
-            <td><a href="http://www.lua.org/"><img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" /></a></td>
-            <td><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /></td>
-            <td><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /></td>
-            <td><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /></td>
+            <td align="center"><a href="http://www.lua.org/"><img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" /></a></td>
+            <td align="center"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /></td>
+            <td align="center"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /></td>
+            <td align="center"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /></td>
         </tr>
         <tr>
-            <td><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></td>
-            <td><img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" /></td>
-            <td><img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=WebAssembly&logoColor=white" /></td>
+            <td align="center"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></td>
+            <td align="center"><img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" /></td>
+            <td align="center"><img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=WebAssembly&logoColor=white" /></td>
             <td><img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white" /></td>
         </tr>
         <tr>
-            <td><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></td>
-            <td><img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" /></td>
-            <td><img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" /></td>
-            <td><img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" /></td>
-        </tr>
-        <tr>
-            <td><img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" /></td>
-            <td><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /></td>
-            <td></td>
+            <td align="center"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></td>
+            <td align="center"><img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" /></td>
+            <td align="center"><img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" /></td>
             <td></td>
         </tr>
         <tr>
-            <td></td>
-            <td><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></td>
-            <td></td>
+            <td align="center"><img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" /></td>
+            <td align="center"><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /></td>
+            <td align="center"><img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" /></td>
             <td></td>
         </tr>
         <tr>
             <td></td>
-            <td><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" /></td>
+            <td align="center"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></td>
+            <td align="center"></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td align="center"><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" /></td>
             <td></td>
             <td></td>
         </tr>
