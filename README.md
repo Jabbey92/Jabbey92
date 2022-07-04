@@ -1,8 +1,8 @@
 <!--**Jabbey92/Jabbey92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-<img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"></a>
+<!--<img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"></a>-->
 <img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jabbey92&theme=radical" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=Jabbey92&theme=radical&" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=Jabbey92&theme=radical" />
 
 I'm Justin Bacher, I'm currently serving in the US Navy, but in my spare time I work on passion projects, which you can see on here, I love answering questions on StackOverflow! It has helped me learn and grow as a developer.
 
