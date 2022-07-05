@@ -5,7 +5,7 @@
 <img align="right" src="https://stackoverflow-card.vercel.app/?userID=225020&theme=tomorrownightblue&showIcons=false" />
 <!--<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=7ed3ffed-ab75-4a40-b844-02441790ce55&theme=radical" />-->
 
-<p align="center">I'm Justin Bacher, I'm currently serving in the US Navy, but in my spare time I work on passion projects, which you can see on here, I love answering questions on StackOverflow! It has helped me learn and grow as a developer.</br></br></br></p>
+<p align="center">I'm Justin Bacher, I'm currently serving in the US Navy, but in my spare time I work on passion projects, which you can see on here.</br></br></br></p>
 
 <span>
     <img align="left" src="https://github-profile-trophy.vercel.app/?username=Jabbey92&theme=radical&column=5&row=1" />
