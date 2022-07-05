@@ -2,13 +2,13 @@
 
 <!--<img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"></a>-->
 <img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jabbey92&theme=radical" />
-<img align="right" src="https://stackoverflow-card.vercel.app/?userID=225020&theme=tomorrownightblue&showIcons=false" />
 <!--<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=7ed3ffed-ab75-4a40-b844-02441790ce55&theme=radical" />-->
 
-<p align="center">I'm Justin Bacher, I'm currently serving in the US Navy, but in my spare time I work on passion projects, which you can see on here.</br></br></br></p>
-
+<p align="center">I'm Justin Bacher, I currently serve in the US Navy! In my spare time I work on passion projects which can be seen on here.</br>I'm currently seeking a job in software development</p>
+<img align="right" src="https://stackoverflow-card.vercel.app/?userID=225020&theme=tomorrownightblue&showIcons=false" />
+</br></br></br></br>
 <span>
-    <img align="left" src="https://github-profile-trophy.vercel.app/?username=Jabbey92&theme=radical&column=5&row=1" />
+    <img align="left" src="https://github-profile-trophy.vercel.app/?username=Jabbey92&theme=radical&column=5&row=1&margin-w=15" />
     <table align="center">
         <tr>
             <th align="center">📝Languages</th>
