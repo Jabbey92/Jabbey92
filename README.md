@@ -8,7 +8,7 @@
 </div>
 <div align="center">
     <img align="right" src="https://stackoverflow-card.vercel.app/?userID=225020&theme=tomorrownightblue&showIcons=false" />
-    </br>
+    </br></br>
     <img align="left" src="https://github-profile-trophy.vercel.app/?username=Jabbey92&theme=algolia&column=3&row=1&margin-w=10" />
     </br></br>
 </div>
@@ -43,7 +43,7 @@
         </tr>
         <tr>
             <td align="center"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></td>
-            <td align="center"><img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" /></td>
+            <td align="center"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /></td>
             <td align="center"><img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" /></td>
             <td align="center"><img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=WebAssembly&logoColor=white" /></td>
             <td align="center"><img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white" /></td>
@@ -51,7 +51,7 @@
         </tr>
         <tr>
             <td align="center"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></td>
-            <td align="center"><img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" /></td>
+            <td align="center"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /></td>
             <td align="center"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /></td>
             <td align="center"><img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" /></td>
             <td align="center"><img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" /></td>
