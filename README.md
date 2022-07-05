@@ -9,7 +9,7 @@
 
 <img align="right" src="https://stackoverflow-card.vercel.app/?userID=225020&theme=tomorrownightblue&showIcons=false" />
 </br>
-<img align="left" src="https://github-profile-trophy.vercel.app/?username=Jabbey92&theme=algolia&column=4&row=1&margin-w=10" />
+<img align="left" src="https://github-profile-trophy.vercel.app/?username=Jabbey92&theme=algolia&column=3&row=1&margin-w=10" />
 </br></br>
 
 <table align="center">
