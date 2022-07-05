@@ -1,14 +1,12 @@
 <!--**Jabbey92/Jabbey92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 <span>
-    <img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jabbey92&theme=radical" />
+    <img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jabbey92&theme=2077" />
     <p align="center">I'm Justin Bacher, I currently serve in the US Navy! In my spare time I work on passion projects which can be seen on here.</br>currently seeking a job in software development</p>
 </span>
-<!--<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=7ed3ffed-ab75-4a40-b844-02441790ce55&theme=radical" />-->
-
 <img align="right" src="https://stackoverflow-card.vercel.app/?userID=225020&theme=tomorrownightblue&showIcons=false" />
-</br></br>
+
 <span>
-    <img align="left" src="https://github-profile-trophy.vercel.app/?username=Jabbey92&theme=radical&column=4&row=1&margin-w=10" />
+    <img align="left" src="https://github-profile-trophy.vercel.app/?username=Jabbey92&theme=algolia&column=4&row=1&margin-w=10" />
     <table align="center">
         <tr>
             <th align="center">📝Languages</th>
