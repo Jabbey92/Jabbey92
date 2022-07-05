@@ -23,7 +23,7 @@
             <th align="center">⚒️Tools</th>
             <th align="center">📖Learning</th>
             <th align="center">👀Interests</th>
-            <th align="center">🔗Links</th>
+            <th align="center">🔗Contact</th>
         </tr>
         <tr>
             <td align="center"><a href="http://python.org/"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /></a></td>
