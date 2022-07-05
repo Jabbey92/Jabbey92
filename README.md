@@ -3,10 +3,9 @@
     <img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jabbey92&theme=2077" />
     <p align="center">I'm Justin Bacher, I currently serve in the US Navy! In my spare time I work on passion projects which can be seen on here.</br>currently seeking a job in software development</p>
 </span>
-<img align="left" src="https://github-profile-trophy.vercel.app/?username=Jabbey92&theme=algolia&column=4&row=1&margin-w=10" />
-</br>
 <img align="right" src="https://stackoverflow-card.vercel.app/?userID=225020&theme=tomorrownightblue&showIcons=false" />
-
+</br>
+<img align="left" src="https://github-profile-trophy.vercel.app/?username=Jabbey92&theme=algolia&column=4&row=1&margin-w=10" />
 <span>
     <table align="center">
         <tr>
