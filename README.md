@@ -92,6 +92,9 @@
     </table>
 </div>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jabbey92" />-->
 
 <!--
